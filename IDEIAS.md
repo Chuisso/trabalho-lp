@@ -1,1 +1,1 @@
-Aqui vai ficar as ideias para o jogo.
+Aqui vão ficar as ideias para o jogo.
