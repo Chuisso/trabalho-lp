@@ -8,6 +8,5 @@ public class TrabalhoLP {
         int dano = personagem.soco(inimigo);
         System.out.println(inimigo.getVida());
         System.out.println(dano);
-    }
-    
+    }    
 }
